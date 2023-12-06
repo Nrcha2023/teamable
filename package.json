@@ -1,6 +1,6 @@
 {
   "name": "teamable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "core-js": "3.25.5",
     "express": "4.18.2",
